@@ -6,9 +6,3 @@ The Iris dataset is one of the most explained and easy-to-use datasets available
 
 So, in this article, I am going to dive into the Iris dataset again. But this time I’m going to focus on creating a compelling story with Iris Flowers instead of just predicting the results.
 You can find the whole explanation at: https://ansababy.medium.com/story-telling-with-iris-dataset-multi-class-classification-using-machine-learning-18a8d94f681f
-
-➡️Subscribe to my YouTube channel
-
-➡️ Follow me on LinkedIn
-
-➡️Let’s Talk:☕
